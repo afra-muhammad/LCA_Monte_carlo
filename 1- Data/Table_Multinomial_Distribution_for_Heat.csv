@@ -1,0 +1,8 @@
+ID;Name;ecoinvent-v3.5 Dataset;Amount (MJ);Unit;Comment;Proportion;CO2;GEO,,,,,,
+h1;Heat, central or small-scale, share of gas heating;Heat production, natural gas, at boiler condensing modulating <100kW;0.499;MJ;Share of gas heating;0.385536583;0.074034296;Europe without Switzerland (Europe without Switzerland),,
+h2;Heat, central or small-scale, share of oil heating;Heat production, light fuel oil, at boiler 10kW, non-modulating;0.272;MJ;Share of oil heating;0.210152206;0.104351333;Europe without Switzerland (Europe without Switzerland),
+h3;Heat, district or industrial, share of district heating;Heat from municipal waste incineration to generic market for heat district or industrial, other than natural gas;0.158;MJ;Share of district heating;0.122073708;0.000259857;Switzerland (CH),,,
+h4;Heat, borehole heat pump {CH};Heat production, borehole heat exchanger, brine-water heat pump 10kW;0.0598;MJ;Share from heat pumps;0.046202581;0.029316816;Europe without Switzerland (Europe without Switzerland),,,
+h5;Heat, central or small-scale, share from wood heating;Heat production, softwood chips from forest, at furnace 50kW;0.0095;MJ;Share from wood heating;0.007339875;0.006017536;Switzerland (CH),,
+h6;Heat, central or small-scale, share from solar thermal;Operation, solar collector system, Cu flat plate collector, multiple dwelling, for hot water;0.048;MJ;Share from solar thermal;0.037085683;0.002793585;Switzerland (CH)
+h7;Electricity, low voltage, Zurich, Switzerland;;0.248;MJ;Share from electricity;0.191609364;0.033284045;Switzerland (CH),,,

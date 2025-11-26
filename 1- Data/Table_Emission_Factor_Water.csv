@@ -1,0 +1,8 @@
+ID;Name;ecoinvent-v3.5 Dataset;Amount (MJ);Unit;Comment;Proportion;CO2;GEO,,,,,
+w1;tap water production, underground water with disinfection;tap water production, underground water with disinfection;;kg;;0.142857143;0.000136391;Europe without Switzerland (Europe without Switzerland),,,
+w2;tap water production, underground water with chemical treatment;tap water production, underground water with chemical treatment;;kg;;0.142857143;0.000297429;Europe without Switzerland (Europe without Switzerland),,,
+w3;tap water production, underground water without treatment;tap water production, underground water without treatment;;kg;;0.142857143;0.0000141293;Switzerland (CH),,,
+w4;tap water production, conventional treatment;tap water production, conventional treatment;;kg;;0.142857143;0.000218099;Europe without Switzerland (Europe without Switzerland),,,
+w5;tap water production, microstrainer treatment;tap water production, microstrainer treatment;;kg;;0.142857143;0.000376121;Rest-of-World (RoW),,,
+w6;tap water production, conventional with biological treatment;tap water production, conventional with biological treatment;;kg;;0.142857143;0.000287996;Europe without Switzerland (Europe without Switzerland),,,
+w7;tap water production, seawater reverse osmosis;tap water production, seawater reverse osmosis, conventional pretreatment, baseline module, single stage;;kg;;0.142857143;0.005769645;Global (GLO)
