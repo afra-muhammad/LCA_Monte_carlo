@@ -1,9 +1,10 @@
 # LCA_Monte_carlo
 ## Monte Carlo Simulation of Shower Carbon Emissions
 
-This project uses Monte Carlo simulation to estimate carbon emissions from household showers. It models uncertainty in shower duration, heating systems, and water treatment sources to provide a realistic distribution of CO₂ emissions instead of relying on single fixed values.
+This project uses Monte Carlo simulation to estimate carbon emissions from household showers. It models uncertainty in shower duration, heating systems, and water treatment sources to provide a realistic distribution of CO₂ emissions.
 
-## Overview
+## Project Structure
+
 
 Shower duration is modeled with a right-skewed log-normal distribution centered around ~10 minutes.
 
