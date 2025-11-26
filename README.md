@@ -10,7 +10,7 @@ This project is divided into severak folders, each cointaining a specific set of
 This folder cointains the CSV files with the dataset used for this project.
 
 ## 2- Monte__carlo_Analysis 
-This folder cointains Jupyter notebook that were used to perform monte carlo analysis of the dataset (jupyter notebook for exploration, testing, and visualisation). This folder also cointains simulation results.
+This folder contains Jupyter notebook that were used to perform monte carlo analysis of the dataset (jupyter notebook for exploration, testing, and visualisation). This folder also cointains simulation results.
 
 
 ## Project Overview
